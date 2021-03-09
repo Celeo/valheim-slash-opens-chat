@@ -22,7 +22,7 @@ You'll need Visual Studio.
 
 ## Using
 
-Download from [thunderstore](https://valheim.thunderstore.io) and install manually or use a mod manager.
+Download from [thunderstore](https://valheim.thunderstore.io/package/Celeo/SlashOpensChat/) and install manually or use a mod manager.
 
 ## Licensing
 
