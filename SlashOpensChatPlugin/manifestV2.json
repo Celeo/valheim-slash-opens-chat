@@ -1,0 +1,21 @@
+﻿{
+  "ManifestVersion": 2,
+  "AuthorName": "Celeo",
+  "Name": "Celeo-SlashOpensChatPlugin",
+  "DisplayName": "Slash Opens Chat",
+  "Version": "1.0.0",
+  "Licence": "MIT",
+  "WebsiteURL": "https://github.com/celeo/valheim-slash-opens-chat",
+  "Description": "Open the chat window with the slash key",
+  "GameVersion": "N/A",
+  "Dependencies": [],
+  "OptionalDependencies": [],
+  "Incompatibilities": [],
+  "NetworkMode": "both",
+  "PackageType": "mod",
+  "InstallMode": "managed",
+  "Loaders": [
+    "bepinex"
+  ],
+  "ExtraData": {}
+}
